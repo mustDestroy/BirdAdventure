@@ -214,9 +214,9 @@ All the applied assets including music, SFX, graphics and fonts are free to use 
  I will share the links to reference them below.
 
 ### 10.1 Music
-- Fight music: 10- Sear The Time Vortex: FREE Music Pack (Lo-fi, Indie, Metal, Horror, Orchestral) (LOOPS!) | Orchestral Music | Unity Asset Store <br>
-- Lobby music: 01- Hamster haven.wav: FREE Music Pack (Lo-fi, Indie, Metal, Horror, Orchestral) (LOOPS!) | Orchestral Music | Unity Asset Store <br>
-- In-game music: 02-It&#39;s a Fight.wav: FREE Music Pack (Lo-fi, Indie, Metal, Horror, Orchestral) (LOOPS!) | Orchestral Music | Unity Asset Store <br>
+- Fight music: 10- Sear The Time Vortex: [FREE Music Pack (Lo-fi, Indie, Metal, Horror, Orchestral) (LOOPS!) | Orchestral Music | Unity Asset Store](https://assetstore.unity.com/packages/audio/music/orchestral/free-music-pack-lo-fi-indie-metal-horror-orchestral-loops-281109#content) <br>
+- Lobby music: 01- Hamster haven.wav: [FREE Music Pack (Lo-fi, Indie, Metal, Horror, Orchestral) (LOOPS!) | Orchestral Music | Unity Asset Store] (https://assetstore.unity.com/packages/audio/music/orchestral/free-music-pack-lo-fi-indie-metal-horror-orchestral-loops-281109#content) <br>
+- In-game music: 02-It&#39;s a Fight.wav: [FREE Music Pack (Lo-fi, Indie, Metal, Horror, Orchestral) (LOOPS!) | Orchestral Music | Unity Asset Store] (https://assetstore.unity.com/packages/audio/music/orchestral/free-music-pack-lo-fi-indie-metal-horror-orchestral-loops-281109#content) <br>
 
 ### 10.2 SFX
 - Cross pipes: Checkpoint_2.wav: https://assetstore.unity.com/packages/audio/sound-fx/hints-stars-points-rewards-sound-effects-lite-pack-295538#content
