@@ -56,40 +56,36 @@ No multiplayer mode is implemented in this release of Bird Adventure.
 The genre is 2D arcade game. The game scene is happening in the skies where the player can control the flipping bird.
 I attach pictures of the objects that are available in the game.
 
-
-
-Bird
- 
-
-
-
-Poisoned Bird
- 
-
-
-
-
-
-
-
-
-
-Pipe
- 
-
-Rotten Apple
- 
-
-Coin
- 
-
-
-
-
-
-Flask
- 
-
+<p align="center">
+  <strong>Bird</strong><br>
+  <img src="https://github.com/mustDestroy/BirdAdventure/blob/3474f0106eae4b48a04074b8ce8066fbe33b25f9/GitImgs/Healthy_bird.png" alt="Bird" width="400">
+</p>
+<br>
+<p align="center">
+  <strong>Poisoned Bird</strong><br>
+  <img src="https://github.com/mustDestroy/BirdAdventure/blob/3474f0106eae4b48a04074b8ce8066fbe33b25f9/GitImgs/Poisoned_bird.PNG" alt="Poisoned Bird" width="400">
+</p>
+<br>
+<p align="center">
+  <strong>Pipe</strong><br>
+  <img src="https://github.com/mustDestroy/BirdAdventure/blob/3474f0106eae4b48a04074b8ce8066fbe33b25f9/GitImgs/Pipe.png" alt="Pipe" width="200" height="400" >
+</p>
+<br>
+<p align="center">
+  <strong>Rotten Apple</strong><br>
+  <img src="https://github.com/mustDestroy/BirdAdventure/blob/d99414b4a98d38674fddaea9774b3d8e1c2664d5/GitImgs/Rotten_apple.png" alt="Rotten Apple" width="200">
+</p>
+<br>
+<p align="center">
+  <strong>Coin</strong><br>
+  <img src="https://github.com/mustDestroy/BirdAdventure/blob/3474f0106eae4b48a04074b8ce8066fbe33b25f9/GitImgs/Coin.png" alt="Coin" width="200">
+</p>
+<br>
+<p align="center">
+  <strong>Green Potion</strong><br>
+  <img src="https://github.com/mustDestroy/BirdAdventure/blob/d99414b4a98d38674fddaea9774b3d8e1c2664d5/GitImgs/Green_Potion.PNG" alt="Green Potion" width="200">
+</p>
+<br>
 
 ## 6. Enemies, NPCs, Other objects
 
@@ -229,7 +225,7 @@ All the applied assets including music, SFX, graphics and fonts are free to use 
 - Mouse Hoover: DM-CGS36: https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#content
 - Collect coin: coin_6.wav: https://assetstore.unity.com/packages/audio/sound-fx/8-bits-elements-16848
 - Bite apple: (cartoon bite): https://pixabay.com/sound-effects/search/bite-apple/
-- Drink Potion: 085594_Potion:  085594_Potion | Royalty-free Music - Pixabay
+- Drink Potion: 085594_Potion: https://pixabay.com/sound-effects/085594-potion-35983/
 
 ### 10.3 Graphics
 - Parallax: https://rengodev.itch.io/free-cloud-sky-parallax-background
@@ -241,7 +237,6 @@ All the applied assets including music, SFX, graphics and fonts are free to use 
 - Pixel font: 04b_30: https://www.dafont.com/font-comment.php?file=04b_30&fpp=200&back=bitmap
 - Bright Aura font: https://www.dafont.com/bright-aura.font
 
-Topics with (*) usually extended to separate detailed documents, in this project can be simply summarized
 
 
 
